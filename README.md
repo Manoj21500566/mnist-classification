@@ -6,10 +6,6 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## Problem Statement and Dataset
 
-## Neural Network Model
-
-Include the neural network model diagram.
-
 ## DESIGN STEPS
 
 ### STEP 1:Import tensorflow and preprocessing libraries
