@@ -84,18 +84,22 @@ np.argmax(model.predict(img_28_gray_scaled.reshape(1,28,28,1)),axis=1)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![1out](https://user-images.githubusercontent.com/94588708/192436984-41b1803a-e9b4-4b27-b7fb-f5cb5ce22f9a.png)
+
 
 ### Classification Report
 
-Include Classification Report here
+![2out](https://user-images.githubusercontent.com/94588708/192437010-6c4ffd4d-0405-4f04-9e04-b0877235d062.png)
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![3out](https://user-images.githubusercontent.com/94588708/192437058-9bd8d08d-d893-4c5b-85fc-cb772779753e.png)
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![4out](https://user-images.githubusercontent.com/94588708/192437160-07243918-fe15-403f-9cd3-9e74dd3ea899.png)
 
 ## RESULT
+Thus a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
